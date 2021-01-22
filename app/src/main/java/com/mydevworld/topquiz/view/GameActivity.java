@@ -49,9 +49,9 @@ public class GameActivity extends AppCompatActivity implements View.OnClickListe
 
         if (savedInstanceState != null) {
             mScore = savedInstanceState.getInt(BUNDLE_STATE_SCORE);
-            System.out.println("---------------- onCreate ------------->> mScore " + mScore);
+//            System.out.println("---------------- onCreate ------------->> mScore " + mScore);
             mNumberOfQuestions = savedInstanceState.getInt(BUNDLE_STATE_NUMBER_OF_QUESTIONS);
-            System.out.println("---------------- onCreate ------------->> " + mNumberOfQuestions);
+//            System.out.println("---------------- onCreate ------------->> " + mNumberOfQuestions);
             mCurrentQuestion = savedInstanceState.getParcelable(BUNDLE_STATE_QUESTION);
 
         } else {
