@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <!--    <string name="welcome_whats_your_name">Welcome! What\'s your name?</string>-->
+    <string name="welcome_whats_your_name">Welcome to TopQuiz!, What\s your first name?</string>
+    <string name="please_type_your_name">Please type your name</string>
+    <string name="lets_play">Let play</string>
+    <string name="question">Question?</string>
+</resources>

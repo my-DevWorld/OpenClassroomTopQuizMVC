@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    dp dimensions -->
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_1.3">1.3dp</dimen>
+    <dimen name="dp_1.45">1.45dp</dimen>
+    <dimen name="dp_1.5">1.5dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_2.5">2.5dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_3.5">3.5dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+</resources>
